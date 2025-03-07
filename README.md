@@ -1,7 +1,7 @@
 # SUBMISSION "BELAJAR ANALISIS DATA DENGAN PYTHON"
 
 ## 💻 Tampilan Dashboard
-[![Demo Video](https://img.youtube.com/vi/CEhbryPfF8k/0.jpg)](https://youtu.be/CEhbryPfF8k)
+![Demo Video](ScreenRecording2025-03-08060621-ezgif.com-video-to-gif-converter.gif)
 
 ## 📂 Struktur Folder
 Berikut adalah struktur file dalam proyek ini:
