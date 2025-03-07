@@ -1,7 +1,8 @@
 # SUBMISSION "BELAJAR ANALISIS DATA DENGAN PYTHON"
 
 ## 💻 Tampilan Dashboard
-<img src="https://github.com/tianiayu/Hasil-Submission-1/blob/943b70cc57314e25a92d4e77b489f77b4fc5b742/ScreenRecording.gif>
+![Demo GIF](https://github.com/tianiayu/Hasil-Submission-1/blob/943b70cc57314e25a92d4e77b489f77b4fc5b742/ScreenRecording.gif)
+
 ## 📂 Struktur Folder
 Berikut adalah struktur file dalam proyek ini:
 ```
