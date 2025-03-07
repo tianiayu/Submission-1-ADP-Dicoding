@@ -1,17 +1,16 @@
-# Proyek ini berisi kode untuk membuat dashboard menggunakan Streamlit
-
-
+# SUBMISSION "BELAJAR ANALISIS DATA DENGAN PYTHON"
 
 
 ## 📂 Struktur Folder
 Berikut adalah struktur file dalam proyek ini:
+```
 Dashboard
-\nData
-\nREDME.md
-\nnotebool.ipynb
-\nrequirements.txt
-\nurl.txt
-
+Data
+README.md
+notebool.ipynb
+requirements.txt
+url.txt
+```
 
 ## Setup Environment
 ```
