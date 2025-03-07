@@ -1,7 +1,7 @@
 # SUBMISSION "BELAJAR ANALISIS DATA DENGAN PYTHON"
 
 ## 💻 Tampilan Dashboard
-![Deskripsi GIF](https://raw.githubusercontent.com/tianiayu/Hasil-Submission-1/d4f9ea5/PATH/TO/ScreenRecording2025-03-08060621-ezgif.com-video-to-gif-converter.gif)
+<img src="https://raw.githubusercontent.com/tianiayu/Hasil-Submission-1/943b70c/PATH/TO/ScreenRecording.gif>
 
 ## 📂 Struktur Folder
 Berikut adalah struktur file dalam proyek ini:
