@@ -1,13 +1,14 @@
 # Proyek ini berisi kode untuk membuat dashboard menggunakan Streamlit
 
+
 ## 📂 Struktur Folder
 Berikut adalah struktur file dalam proyek ini:
-Dashboard
-Data
-REDME.md
-notebool.ipynb
-requirements.txt
-url.txt
+\nDashboard
+\nData
+\nREDME.md
+\nnotebool.ipynb
+\nrequirements.txt
+\nurl.txt
 
 ## Setup Environment
 ```
