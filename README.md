@@ -1,4 +1,6 @@
-# SUBMISSION ANALISIS DATA DENGAN PYTHON"
+# 🔥SUBMISSION ANALISIS DATA DENGAN PYTHON🔥
+
+
 
 ## 💻 Tampilan Dashboard
 ![Demo GIF](https://github.com/tianiayu/Hasil-Submission-1/blob/943b70cc57314e25a92d4e77b489f77b4fc5b742/ScreenRecording.gif)
