@@ -7,7 +7,7 @@ Berikut adalah struktur file dalam proyek ini:
 Dashboard
 Data
 README.md
-notebool.ipynb
+notebook.ipynb
 requirements.txt
 url.txt
 ```
