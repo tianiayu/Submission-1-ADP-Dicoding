@@ -1,14 +1,17 @@
 # Proyek ini berisi kode untuk membuat dashboard menggunakan Streamlit
 
 
+
+
 ## 📂 Struktur Folder
 Berikut adalah struktur file dalam proyek ini:
-\nDashboard
+Dashboard
 \nData
 \nREDME.md
 \nnotebool.ipynb
 \nrequirements.txt
 \nurl.txt
+
 
 ## Setup Environment
 ```
@@ -24,4 +27,4 @@ pip install streamlit
 Jalankan Streamlit dengan perintah berikut:
 ```
 streamlit run submission1.py
-```bash
+```
