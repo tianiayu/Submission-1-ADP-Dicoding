@@ -3,7 +3,7 @@
 
 
 ## 💻 Tampilan Dashboard
-![Demo GIF](https://github.com/tianiayu/Hasil-Submission-1/blob/943b70cc57314e25a92d4e77b489f77b4fc5b742/ScreenRecording.gif)
+![Demo GIF](https://github.com/tianiayu/kumpulangif/blob/53998decabbe14648de4a65b8cdfdad1f427851f/Submission%201.gif)
 
 ## 📂 Struktur Folder
 Berikut adalah struktur file dalam proyek ini:
