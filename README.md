@@ -8,12 +8,12 @@ Proyek ini berisi kode untuk membuat Dashboard menggunakan Streamlit 👑
 
 ## 📂 Struktur Data
 Berikut adalah struktur file dalam proyek ini:
-.<br>/dashboard = Berisi file dataset yang sudah di cleaning serta kode dashboar.py untuk visualisasi data
-.<br>/data = Berisi dataset mentah bike-sharing (hour.csv dan day.csv)
-.<br>README.md = Berisi domumentasi proyek 
-.<br>notebook.ipynb = Berisi File Jupyter Notebook
+.<br>/dashboard       = Berisi file dataset yang sudah di cleaning serta kode dashboar.py untuk visualisasi data
+.<br>/data            = Berisi dataset mentah bike-sharing (hour.csv dan day.csv)
+.<br>README.md        = Berisi domumentasi proyek 
+.<br>notebook.ipynb   = Berisi File Jupyter Notebook
 .<br>requirements.txt = Berisi daftar pustaka python yang dibutuhkan untuk menjalankan project ini
-.<br>url.txt = berisi link hasil dashboard yang telah di deploy
+.<br>url.txt          = berisi link hasil dashboard yang telah di deploy
 
 ## 📟 Setup Environment
 ```
