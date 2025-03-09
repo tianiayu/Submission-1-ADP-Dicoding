@@ -8,11 +8,11 @@ import os
 sns.set(style='dark')
 
 def load_data():
-    hour_df = pd.read_csv('clean_hour.csv')
-    day_df = pd.read_csv('clean_day.csv')
+    hour_df = pd.read_csv("clean_hour.csv")
+    day_df = pd.read_csv("clean_day.csv")
 
-    hour_df["date"] = pd.to_datetime(hour_df["date"])
-    day_df["date"] = pd.to_datetime(day_df["date"])
+    hour_df['date'] = pd.to_datetime(hour_df['date'])
+    day_df['date'] = pd.to_datetime(day_df['date'])
 
     return hour_df, day_df
 
