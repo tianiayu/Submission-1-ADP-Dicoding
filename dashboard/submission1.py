@@ -5,6 +5,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
+sns.set(style='dark')
+
 def load_data():
     hour_df = pd.read_csv('clean_hour.csv')
     day_df = pd.read_csv('clean_day.csv')
