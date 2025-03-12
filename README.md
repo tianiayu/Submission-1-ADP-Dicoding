@@ -7,7 +7,7 @@
 Proyek ini berisi kode untuk membuat Bike Sharing Dashboard menggunakan Streamlit 👑
 
 ## 🎯 Tujuan dan Teknik Analisis
-1. Analisis jumlah peminjaman berdasarkan jam untuk melihat jam-jam sibuk :
+1. Analisis jumlah peminjaman berdasarkan jam untuk melihat jam-jam sibuk:
 <br>*Mengidentifikasi jam-jam sibuk
 <br>*Menganalisis pola penggunaan harian
 2. Perbandingan registered vs casual sepanjang tahun:
