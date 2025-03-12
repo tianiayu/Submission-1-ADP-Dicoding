@@ -32,8 +32,8 @@ pip install streamlit
 ```
 
 ## 🚀 Cara Menjalankan
-Jalankan Streamlit dengan perintah berikut:
+Jalankan Streamlit masuk ke directori proyek dengan perintah berikut:
 ```
 streamlit run submission1.py
 ```
-(https://submission-1.streamlit.app/)
+Atau bisa mengakses link berikut https://submission-1.streamlit.app/
